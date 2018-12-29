@@ -17,6 +17,13 @@
 <resources>
     <color name="legacy_long_pressed_highlight">@*android:color/black</color>
     <color name="legacy_light_control_normal">#ffffff</color>
+    <color name="material_grey_900">@*android:color/black</color>
+    <color name="material_grey_850">@*android:color/black</color>
+    <color name="material_grey_800">@*android:color/black</color>
+    <color name="material_grey_600">@*android:color/black</color>
+    <color name="material_grey_300">@*android:color/black</color>
+    <color name="material_grey_200">@*android:color/black</color>
+    <color name="background_material_dark">@*android:color/black</color>
 
        <!-- Toast text and bg colors -->
     <color name="toast_bg_color">#cc000000</color>
@@ -45,6 +52,7 @@
         <item name="android:colorBackground">@*android:color/black</item>
         <item name="android:colorPrimary">@*android:color/black</item>
         <item name="android:colorPrimaryDark">@*android:color/black</item>
+        <item name="android:divider">@null</item>
         <item name="android:colorAccent">@*android:color/accent_device_default_dark</item>
         <item name="android:colorEdgeEffect">@*android:color/white</item>
         <item name="android:colorSecondary">@*android:color/black</item>
